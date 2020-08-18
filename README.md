@@ -6,8 +6,8 @@ Requirements:
 * Gmail Less Secure app : Disabled (https://myaccount.google.com/lesssecureapps)
 
 Information:
-*Google-mail/Gmail server address(Host address) : smtp.google.com
-*Port no: 465(unsecure) , 587(secure)
+* Google-mail/Gmail server address(Host address) : smtp.google.com
+* Port no: 465(unsecure) , 587(secure)
 
 Files:
 mail.yml: playbook for performing task
