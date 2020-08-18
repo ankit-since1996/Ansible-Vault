@@ -10,5 +10,5 @@ Information:
 * Port no: 465(unsecure) , 587(secure)
 
 Files:
-mail.yml: playbook for performing task
-var.yml: vault file for storing my playbook-variables 
+* mail.yml: playbook for performing task
+* var.yml: vault file for storing my playbook-variables 
